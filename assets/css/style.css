@@ -1,0 +1,59 @@
+.bg-success{
+    background-color: #249C65 !important;
+}
+
+ .bg-danger{
+     background-color: #F31F1F !important;
+}
+
+ .btn-secondary {
+     background-color: #324F61 !important; 
+     border-color: #E1E5E8 !important;
+     color: white !important;
+}
+ 
+a {
+     color:#891FF2;
+     font-weight: 600;
+     text-decoration: none;
+}
+
+ .bg-gray{
+     background-color: #EDF0F3;
+ }
+
+ .bg-white {
+     background-color: white;
+}
+
+ .page-link.active{
+     background-color: #324F61 !important; 
+     border-color: #E1E5E8 !important;
+     color: white !important;
+}
+
+ .page-link{
+     color: #324F61 !important;
+}
+
+ .weight-600{
+     font-weight: 600;
+}
+
+ .weight-700{
+     font-weight: 700;
+ }
+
+ .nav-link:hover{
+     color: #E00505;
+}
+
+ .nav-link.active{
+     color: #E00505 !important;
+}
+
+
+.form-label {
+    margin-bottom: 0.5rem;
+    
+}
